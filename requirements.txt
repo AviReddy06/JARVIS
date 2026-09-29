@@ -1,0 +1,17 @@
+# Real-time Streaming ASR (sherpa-onnx Zipformer)
+sherpa-onnx>=1.10.0
+sounddevice>=0.5.0
+soundfile>=0.12.0
+requests>=2.31.0
+ollama>=0.3.0
+torch>=2.0.0
+numpy>=1.24.0
+
+# Kokoro Voice TTS & Audio Playback
+kokoro-onnx>=0.6.0
+
+# Wake Word Detection
+openwakeword>=0.6.0
+
+# GUI HUD Background Service
+PyQt6>=6.6.0

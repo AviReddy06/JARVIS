@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Large model weights (downloaded automatically on first run)
+models/
+*.onnx
+*.bin
+
+# Log files
+*.log
+jarvis_hud.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
